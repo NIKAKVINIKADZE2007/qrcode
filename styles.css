@@ -1,0 +1,47 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f5f5;
+}
+.container {
+  width: 320px;
+  height: 500px;
+  border-radius: 20px;
+  border-width: 0px;
+  border-color: #979797;
+  background-color: #ffffff;
+}
+.qrcode {
+  width: 160px;
+  height: 160px;
+  margin: 64px 64px;
+}
+.qrCodeDiv {
+  padding: 16px 16px 0px 16px;
+}
+.qrBackgound {
+  border-radius: 10px;
+  border-color: #979797;
+  width: 288px;
+  height: 288px;
+  background-color: #2c7dfa;
+}
+.textDiv {
+  width: 288px;
+  margin: 0px 16px 40px 16px;
+  padding: 16px;
+}
+.impoveText {
+  margin-bottom: 16px;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold;
+}
+.scanText {
+  color: #7d889e;
+  text-align: center;
+  font-size: 15px;
+}
